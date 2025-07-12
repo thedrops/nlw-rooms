@@ -15,6 +15,13 @@
       "when": 1752333074651,
       "tag": "0001_fluffy_sentry",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752347408566,
+      "tag": "0002_overjoyed_imperial_guard",
+      "breakpoints": true
     }
   ]
 }
